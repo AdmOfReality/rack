@@ -41,3 +41,4 @@ class TimeApp
     [status, { 'content-type' => 'text/plain' }, [body]]
   end
 end
+
